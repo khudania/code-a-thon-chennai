@@ -109,3 +109,7 @@ section{
 #sponsors .col-md-3{
     margin: auto;
 }
+
+#sponsors img{
+    margin-top: 10px;
+}
