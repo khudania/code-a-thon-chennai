@@ -87,7 +87,7 @@ section{
 .hero-image {
    background-image: url("../img/1.jpg");
     height: 40vh;
-    width: 98.8vw;
+    width: 100vw;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
