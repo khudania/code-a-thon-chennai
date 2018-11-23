@@ -58,6 +58,11 @@ section{
     margin: auto;
 }
 
+#about_page .col-md-3 .row{
+    width: 95%;
+    margin: auto;
+}
+
 #footer{
     background: #333;
     height: 20vh;
